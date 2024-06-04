@@ -1,0 +1,212 @@
+[
+  {
+    "Placa": "ZLT8T32",
+    "Nome": "Jaguar XE",
+    "AnoModelo": 2005,
+    "AnoFabricacao": 2015,
+    "Cor": "Branco"
+  },
+  {
+    "Placa": "WVG5N94",
+    "Nome": "Rolls-Royce Phantom",
+    "AnoModelo": 1996,
+    "AnoFabricacao": 2003,
+    "Cor": "Amarelo"
+  },
+  {
+    "Placa": "LRQ1F10",
+    "Nome": "Nissan Altima",
+    "AnoModelo": 1992,
+    "AnoFabricacao": 2015,
+    "Cor": "Preto"
+  },
+  {
+    "Placa": "HBB7R37",
+    "Nome": "Kia Optima",
+    "AnoModelo": 2007,
+    "AnoFabricacao": 2016,
+    "Cor": "Roxo"
+  },
+  {
+    "Placa": "HBI3U03",
+    "Nome": "Mercedes-Benz C-Class",
+    "AnoModelo": 2016,
+    "AnoFabricacao": 2022,
+    "Cor": "Roxo"
+  },
+  {
+    "Placa": "XEV9E58",
+    "Nome": "Kia Optima",
+    "AnoModelo": 2000,
+    "AnoFabricacao": 2020,
+    "Cor": "Prata"
+  },
+  {
+    "Placa": "LOF7M60",
+    "Nome": "Ford Mustang",
+    "AnoModelo": 2006,
+    "AnoFabricacao": 2021,
+    "Cor": "Branco"
+  },
+  {
+    "Placa": "ZGG0I77",
+    "Nome": "Ford Mustang",
+    "AnoModelo": 2019,
+    "AnoFabricacao": 2018,
+    "Cor": "Amarelo"
+  },
+  {
+    "Placa": "QJZ4D07",
+    "Nome": "Dodge Charger",
+    "AnoModelo": 2000,
+    "AnoFabricacao": 2015,
+    "Cor": "Verde"
+  },
+  {
+    "Placa": "HOV3G42",
+    "Nome": "Hyundai Elantra",
+    "AnoModelo": 2018,
+    "AnoFabricacao": 2021,
+    "Cor": "Branco"
+  },
+  {
+    "Placa": "ZBM8W69",
+    "Nome": "Alfa Romeo Giulia",
+    "AnoModelo": 2019,
+    "AnoFabricacao": 2021,
+    "Cor": "Prata"
+  },
+  {
+    "Placa": "LVT9W70",
+    "Nome": "Rolls-Royce Phantom",
+    "AnoModelo": 2014,
+    "AnoFabricacao": 2016,
+    "Cor": "Cinza"
+  },
+  {
+    "Placa": "SWS7A42",
+    "Nome": "Chevrolet Camaro",
+    "AnoModelo": 2008,
+    "AnoFabricacao": 2017,
+    "Cor": "Vermelho"
+  },
+  {
+    "Placa": "IRP3E51",
+    "Nome": "Lamborghini Huracan",
+    "AnoModelo": 1996,
+    "AnoFabricacao": 1998,
+    "Cor": "Preto"
+  },
+  {
+    "Placa": "UQX0R59",
+    "Nome": "Honda Civic",
+    "AnoModelo": 2021,
+    "AnoFabricacao": 2023,
+    "Cor": "Roxo"
+  },
+  {
+    "Placa": "JEU7C44",
+    "Nome": "Alfa Romeo Giulia",
+    "AnoModelo": 1992,
+    "AnoFabricacao": 2000,
+    "Cor": "Branco"
+  },
+  {
+    "Placa": "IEC1D10",
+    "Nome": "Nissan Altima",
+    "AnoModelo": 2023,
+    "AnoFabricacao": 2023,
+    "Cor": "Amarelo"
+  },
+  {
+    "Placa": "DYK4W19",
+    "Nome": "Infiniti Q50",
+    "AnoModelo": 2022,
+    "AnoFabricacao": 2023,
+    "Cor": "Preto"
+  },
+  {
+    "Placa": "RTC1N85",
+    "Nome": "Nissan Altima",
+    "AnoModelo": 2009,
+    "AnoFabricacao": 2016,
+    "Cor": "Verde"
+  },
+  {
+    "Placa": "GOR4T98",
+    "Nome": "Ferrari 488",
+    "AnoModelo": 2003,
+    "AnoFabricacao": 2019,
+    "Cor": "Cinza"
+  },
+  {
+    "Placa": "EKY7K38",
+    "Nome": "Dodge Charger",
+    "AnoModelo": 2012,
+    "AnoFabricacao": 2022,
+    "Cor": "Preto"
+  },
+  {
+    "Placa": "VZQ9G01",
+    "Nome": "Mitsubishi Lancer",
+    "AnoModelo": 1990,
+    "AnoFabricacao": 1989,
+    "Cor": "Prata"
+  },
+  {
+    "Placa": "XXS5W90",
+    "Nome": "Audi A4",
+    "AnoModelo": 2007,
+    "AnoFabricacao": 2014,
+    "Cor": "Roxo"
+  },
+  {
+    "Placa": "DMN2P33",
+    "Nome": "Lexus IS",
+    "AnoModelo": 2022,
+    "AnoFabricacao": 2022,
+    "Cor": "Amarelo"
+  },
+  {
+    "Placa": "SOV4Q90",
+    "Nome": "Ferrari 488",
+    "AnoModelo": 2019,
+    "AnoFabricacao": 2021,
+    "Cor": "Vermelho"
+  },
+  {
+    "Placa": "TVC3G98",
+    "Nome": "Mitsubishi Lancer",
+    "AnoModelo": 1997,
+    "AnoFabricacao": 2002,
+    "Cor": "Roxo"
+  },
+  {
+    "Placa": "SQY5X24",
+    "Nome": "Lexus IS",
+    "AnoModelo": 2025,
+    "AnoFabricacao": 2024,
+    "Cor": "Prata"
+  },
+  {
+    "Placa": "ZGS6T09",
+    "Nome": "Volkswagen Golf",
+    "AnoModelo": 2001,
+    "AnoFabricacao": 2002,
+    "Cor": "Prata"
+  },
+  {
+    "Placa": "JOW8N55",
+    "Nome": "Kia Optima",
+    "AnoModelo": 1990,
+    "AnoFabricacao": 1999,
+    "Cor": "Verde"
+  },
+  {
+    "Placa": "PYT9U99",
+    "Nome": "BMW 3 Series",
+    "AnoModelo": 2013,
+    "AnoFabricacao": 2013,
+    "Cor": "Amarelo"
+  }
+]
