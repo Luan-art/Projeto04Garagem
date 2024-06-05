@@ -53,11 +53,4 @@ namespace Services
 
     }
 
-    public class ListaCarros
-    {
-        [JsonProperty("carro")]
-        public List<Carro>? ListaDeCarros { get; set; }
-    }
-
-
 }
